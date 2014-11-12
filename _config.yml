@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink: pretty
+relative_permalinks: true
+
+# Setup
+title:            
+tagline:          ''
+description:      ''
+url:              
+baseurl:          /
+gems:
+  - jekyll-sitemap
+
+author:
+  name:           ''
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          1.0         
+
+# Social vars
+active :  # yes = active, empty = deactive
+github: 
+linkedin: 
+twitter: 
+facebook: 
+instagram: 
